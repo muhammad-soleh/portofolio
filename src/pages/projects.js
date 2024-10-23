@@ -8,7 +8,7 @@ import project1 from "../../public/images/projects/project1.png";
 import project2 from "../../public/images/projects/project2.png";
 import project3 from "../../public/images/projects/project3.png";
 import project4 from "../../public/images/projects/project 4.png";
-import project5 from "../../public/images/projects/project5.png";
+import project5 from "../../public/images/projects/Project5.png";
 import Image from "next/image";
 import { motion } from "framer-motion";
 import TransitionEffect from "@/components/TransitionEffect";
